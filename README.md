@@ -1,23 +1,14 @@
-# Hi, I'm Ishwari Patil 👋
+# Hi, I'm Ishwari Patil 👋  
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Aspiring+Full-Stack+Developer;AI%2FML+Enthusiast;Information+Technology+Engineering+Student;Always+Learning+%26+Building+🚀" />
+<h3>💻 Aspiring Full-Stack Developer | 🤖 AI/ML Enthusiast</h3>
+
+<p>🎓 Information Technology Engineering Student</p>
+
+<p>🚀 Always Learning & Building</p>
 
 </div>
-
----
-
-## 👩‍💻 About Me
-
-🎓 I'm an **Information Technology Engineering student** passionate about technology and software development.
-
-💻 I enjoy building **real-world web applications** and exploring **Artificial Intelligence and Machine Learning**.
-
-🤖 I am currently learning how to combine **Full-Stack Development with AI/ML** to build intelligent applications.
-
-🚀 I believe in learning by building projects, solving problems, and continuously improving my skills.
-
 - 🔭 Currently working on **Full-Stack Web Development & AI/ML Projects**
 - 🌱 Currently learning **React, Node.js, Next.js, Python & Machine Learning**
 - 💡 Interested in **AI-powered applications and innovative technology**
