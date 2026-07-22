@@ -1,4 +1,4 @@
-# Hi, I'm Ishwari Patil 👋  
+# Hi, I'm Ishwari Patil 👋
 
 <div align="center">
 
@@ -9,6 +9,19 @@
 <p>🚀 Always Learning & Building</p>
 
 </div>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 I'm an **Information Technology Engineering student** passionate about technology and software development.
+
+💻 I enjoy building **real-world web applications** and exploring **Artificial Intelligence and Machine Learning**.
+
+🤖 I am currently learning how to combine **Full-Stack Development with AI/ML** to build intelligent applications.
+
+🚀 I believe in learning by building projects, solving problems, and continuously improving my skills.
+
 - 🔭 Currently working on **Full-Stack Web Development & AI/ML Projects**
 - 🌱 Currently learning **React, Node.js, Next.js, Python & Machine Learning**
 - 💡 Interested in **AI-powered applications and innovative technology**
@@ -40,18 +53,14 @@
 
 ### 🤖 AI / ML & Data
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+- 🐍 Python
+- 🧠 Machine Learning
+- 🤖 Generative AI
+- 📊 Data Analysis
+- 🔢 NumPy
+- 🐼 Pandas
 
-- Machine Learning
-- Generative AI
-- Data Analysis
-- NumPy
-- Pandas
-- Google Cloud AI/ML
-
-### 🛠️ Tools & Platforms
+### ☁️ Cloud & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud" />
@@ -63,7 +72,7 @@
 
 ### 🛍️ Skincare E-Commerce Website
 
-A full-featured skincare e-commerce website built using HTML, CSS, and JavaScript.
+A skincare e-commerce website built using **HTML, CSS, and JavaScript**.
 
 ✨ Features:
 
@@ -83,10 +92,10 @@ A full-featured skincare e-commerce website built using HTML, CSS, and JavaScrip
 
 Currently building and exploring projects in:
 
-- Machine Learning
-- Generative AI
-- Data Analytics
-- AI-powered Web Applications
+- 🧠 Machine Learning
+- 🤖 Generative AI
+- 📊 Data Analytics
+- 🌐 AI-powered Web Applications
 
 🚀 More exciting projects coming soon!
 
@@ -96,13 +105,13 @@ Currently building and exploring projects in:
 
 Currently exploring:
 
-- Google Cloud Platform
-- BigQuery
-- BigQuery ML
-- Vertex AI
-- Cloud Storage
-- Sensitive Data Protection
-- Generative AI
+- ☁️ Google Cloud Platform
+- 📊 BigQuery
+- 🧠 BigQuery ML
+- 🤖 Vertex AI
+- 🗄️ Cloud Storage
+- 🔐 Sensitive Data Protection
+- ✨ Generative AI
 
 ---
 
@@ -110,9 +119,7 @@ Currently exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=ishwaripatil618-lang&show_icons=true&theme=radical" />
 
 </div>
 
@@ -122,7 +129,7 @@ Currently exploring:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwaripatil618-lang&layout=compact&theme=radical" />
 
 </div>
 
@@ -133,11 +140,13 @@ Currently exploring:
 <p align="left">
 
 <a href="https://www.linkedin.com/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="45">
 </a>
 
+&nbsp;&nbsp;
+
 <a href="mailto:ishwaripatil618@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<img src="https://skillicons.dev/icons?i=gmail" width="45">
 </a>
 
 </p>
