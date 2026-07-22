@@ -60,7 +60,7 @@
 - 🔢 NumPy
 - 🐼 Pandas
 
-### ☁️ Cloud & Platforms
+### ☁️ Cloud & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud" />
@@ -112,26 +112,6 @@ Currently exploring:
 - 🗄️ Cloud Storage
 - 🔐 Sensitive Data Protection
 - ✨ Generative AI
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ishwaripatil618-lang&show_icons=true&theme=radical" />
-
-</div>
-
----
-
-## 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishwaripatil618-lang&layout=compact&theme=radical" />
-
-</div>
 
 ---
 
