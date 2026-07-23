@@ -15,3 +15,140 @@
 <p>🚀 Always Learning & Building</p>
 
 </div>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 I'm an **Information Technology Engineering student** passionate about technology and software development.
+
+💻 I enjoy building **real-world web applications** and exploring **Artificial Intelligence and Machine Learning**.
+
+🤖 I am currently learning how to combine **Full-Stack Development with AI/ML** to build intelligent applications.
+
+🚀 I believe in learning by building projects, solving problems, and continuously improving my skills.
+
+- 🔭 Currently working on **Full-Stack Web Development & AI/ML Projects**
+- 🌱 Currently learning **React, Node.js, Next.js, Python & Machine Learning**
+- 💡 Interested in **AI-powered applications and innovative technology**
+- ☁️ Exploring **Google Cloud and Cloud Technologies**
+- 🤝 Open to collaborating on **Web Development, AI/ML, and Open-Source Projects**
+- 🎯 Goal: Become a skilled **Full-Stack Developer and AI/ML Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🤖 AI / ML & Data
+
+- 🐍 Python
+- 🧠 Machine Learning
+- 🤖 Generative AI
+- 📊 Data Analysis
+- 🔢 NumPy
+- 🐼 Pandas
+
+### ☁️ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🛍️ Skincare E-Commerce Website
+
+A skincare e-commerce website built using **HTML, CSS, and JavaScript**.
+
+✨ Features:
+
+- 🔍 Product browsing
+- 🔎 Search and filtering
+- 🔐 User authentication
+- 🛒 Shopping cart
+- 💳 Checkout flow
+- 📦 Order confirmation
+- 🛠️ Demo admin panel
+
+**Technologies:** HTML • CSS • JavaScript
+
+---
+
+### 🤖 AI/ML Projects
+
+Currently building and exploring projects in:
+
+- 🧠 Machine Learning
+- 🤖 Generative AI
+- 📊 Data Analytics
+- 🌐 AI-powered Web Applications
+
+🚀 More exciting projects coming soon!
+
+---
+
+## ☁️ Google Cloud & Learning
+
+Currently exploring:
+
+- ☁️ Google Cloud Platform
+- 📊 BigQuery
+- 🧠 BigQuery ML
+- 🤖 Vertex AI
+- 🗄️ Cloud Storage
+- 🔐 Sensitive Data Protection
+- ✨ Generative AI
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45">
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:ishwaripatil618@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45">
+</a>
+
+</p>
+
+---
+
+## 💬 Quote
+
+> "The best way to predict the future is to create it." 🚀
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's learn, build, and grow together! 🚀**
+
+</div>
