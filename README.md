@@ -105,7 +105,7 @@ Currently building and exploring projects in:
 
 🚀 More exciting projects coming soon!
 
----
+
 
 ## ☁️ Google Cloud & Learning
 
@@ -119,7 +119,7 @@ Currently exploring:
 - 🔐 Sensitive Data Protection
 - ✨ Generative AI
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -137,13 +137,13 @@ Currently exploring:
 
 </p>
 
----
+
 
 ## 💬 Quote
 
 > "The best way to predict the future is to create it." 🚀
 
----
+
 
 <div align="center">
 
