@@ -1,41 +1,152 @@
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/58/e6/96/58e69603777b69c62a8a3038b1c723f3.jpg" width="100%" alt="Banner">
+</div>
+
+<br>
+
+# Hi, I'm Ishwari Patil 👋
+
+<div align="center">
+
+<h3>💻 Aspiring Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎨 UI/UX</h3>
+
+<p>🎓 Information Technology Engineering Student</p>
+
+<p>🚀 Always Learning & Building</p>
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 I'm an **Information Technology Engineering student** passionate about technology and software development.
+
+💻 I enjoy building **real-world web applications** and exploring **Artificial Intelligence and Machine Learning**.
+
+🤖 I am currently learning how to combine **Full-Stack Development with AI/ML** to build intelligent applications.
+
+🚀 I believe in learning by building projects, solving problems, and continuously improving my skills.
+
+- 🔭 Currently working on **Full-Stack Web Development & AI/ML Projects**
+- 🌱 Currently learning **React, Node.js, Next.js, Python & Machine Learning**
+- 💡 Interested in **AI-powered applications and innovative technology**
+- ☁️ Exploring **Google Cloud and Cloud Technologies**
+- 🤝 Open to collaborating on **Web Development, AI/ML, and Open-Source Projects**
+- 🎯 Goal: Become a skilled **Full-Stack Developer and AI/ML Engineer**
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🤖 AI / ML & Data
+
+- 🐍 Python
+- 🧠 Machine Learning
+- 🤖 Generative AI
+- 📊 Data Analysis
+- 🔢 NumPy
+- 🐼 Pandas
+
+### ☁️ Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,googlecloud" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
-### 🛍️ Feminine Beauty — Skincare E-Commerce Website
+### 🛍️ Skincare E-Commerce Website
 
 A skincare e-commerce website built using **HTML, CSS, and JavaScript**.
 
 ✨ Features:
-- 🔍 Product browsing, search, and filtering
-- 🔐 Demo user authentication
+
+- 🔍 Product browsing
+- 🔎 Search and filtering
+- 🔐 User authentication
 - 🛒 Shopping cart
-- 💳 Checkout interface
+- 💳 Checkout flow
 - 📦 Order confirmation
 - 🛠️ Demo admin panel
 
 **Technologies:** HTML • CSS • JavaScript
 
-🔗 [Explore my GitHub repositories](https://github.com/ishwaripatil618-lang)
+---
+
+### 🤖 AI/ML Projects
+
+Currently building and exploring projects in:
+
+- 🧠 Machine Learning
+- 🤖 Generative AI
+- 📊 Data Analytics
+- 🌐 AI-powered Web Applications
+
+🚀 More exciting projects coming soon!
 
 ---
 
-### 🎨 UI/UX Design Projects
+## ☁️ Google Cloud & Learning
 
-Exploring user-centered design through interface design and interactive prototypes.
+Currently exploring:
 
-- 🎨 Website and mobile app interfaces
-- 🧩 Wireframes and user flows
-- 🖱️ Interactive prototypes using Figma
-- 📱 Responsive design concepts
+- ☁️ Google Cloud Platform
+- 📊 BigQuery
+- 🧠 BigQuery ML
+- 🤖 Vertex AI
+- 🗄️ Cloud Storage
+- 🔐 Sensitive Data Protection
+- ✨ Generative AI
 
 ---
 
-### 🤖 AI/ML & Cybersecurity
+## 🌐 Connect With Me
 
-Exploring Artificial Intelligence, Machine Learning, and AI-powered cybersecurity through learning projects and prototypes.
+<p align="left">
 
-- 🧠 Machine Learning fundamentals
-- 🛡️ Intelligent threat detection concepts
-- 🤖 Generative AI applications
-- 📊 Data analysis and visualization
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45">
+</a>
 
-🚀 More projects coming soon!
+&nbsp;&nbsp;
+
+<a href="mailto:ishwaripatil618@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45">
+</a>
+
+</p>
+
+---
+
+## 💬 Quote
+
+> "The best way to predict the future is to create it." 🚀
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Let's learn, build, and grow together! 🚀**
+
+</div>
