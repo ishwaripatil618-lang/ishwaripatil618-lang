@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<h3>💻 Aspiring Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎨 UI/UX</h3>
+<h3>💻 Aspiring Full-Stack Developer | 🤖 AI/ML Enthusiast | 🎨 UI/UX</h3>Enthusiast
 
 <p>🎓 Information Technology Engineering Student</p>
 
